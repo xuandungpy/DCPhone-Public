@@ -1,3 +1,9 @@
+
+[v1.0.0] - 2026-09-01
+- [v1.0.0] Bản phát hành chính thức DCPhone Global 2026
+- - Tích hợp tính năng xem màn hình từng thiết bị độc lập qua scrcpy.
+- - Nâng cấp hệ thống bản quyền Offline có hạn dùng và chống lùi ngày giờ.
+- - Tự động kiểm tra và nâng cấp phiên bản mới từ GitHub Releases.
 [v1.0.0] - 2026-08-31
 - Tích hợp tính năng xem màn hình từng thiết bị độc lập qua scrcpy.
 - Nâng cấp hệ thống bản quyền Offline có hạn dùng và chống lùi ngày giờ.

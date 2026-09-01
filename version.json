@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "release_date": "2026-08-31",
+    "release_date": "2026-09-01",
     "download_url": "https://github.com/xuandungpy/DCPhone-Public/raw/main/DCPhone100k2026-Global.exe",
     "changelog": "[v1.0.0] Bản phát hành chính thức DCPhone Global 2026\n- Tích hợp tính năng xem màn hình từng thiết bị độc lập qua scrcpy.\n- Nâng cấp hệ thống bản quyền Offline có hạn dùng và chống lùi ngày giờ.\n- Tự động kiểm tra và nâng cấp phiên bản mới từ GitHub Releases."
 }
