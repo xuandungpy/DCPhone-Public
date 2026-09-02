@@ -1,3 +1,5 @@
+[v1.0.2] - 2026-09-02
+- Lưu bản quyền (License Key) vào Registry hệ thống, sửa lỗi mất key khi mở lại hoặc chuyển máy
 
 [v1.0.1] - 2026-09-02
 - [v1.0.0] Ẩn toàn bộ cửa sổ cmd trong quá trình chạy
