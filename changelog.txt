@@ -1,3 +1,6 @@
+[v1.0.3] - 2026-11-14
+- Cập nhật và tối ưu hệ thống DCPhone Global
+
 [v1.0.2] - 2026-09-02
 - Lưu bản quyền (License Key) vào Registry hệ thống, sửa lỗi mất key khi mở lại hoặc chuyển máy
 

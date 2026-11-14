@@ -1,6 +1,6 @@
 {
-    "version": "1.0.2",
-    "release_date": "2026-09-02",
-    "download_url": "https://github.com/xuandungpy/DCPhone-Public/releases/download/v1.0.2/DCPhone100k2026-Global.exe",
-    "changelog": "[v1.0.2] Lưu bản quyền (License Key) vào Registry hệ thống, sửa lỗi mất key khi mở lại hoặc chuyển máy"
+    "version": "1.0.3",
+    "release_date": "2026-11-14",
+    "download_url": "https://github.com/xuandungpy/DCPhone-Public/releases/download/v1.0.3/DCPhone100k2026-Global.exe",
+    "changelog": "[v1.0.3] Cập nhật và tối ưu hệ thống DCPhone Global"
 }
